@@ -1,1 +1,1 @@
-print('master_1')
+print('master_1', 'master_2')
